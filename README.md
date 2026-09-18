@@ -1,2 +1,7 @@
-# Desarrollo_web
-Hola! este es mi repositorio para el curso de desarrollo web - Pedro Pablo Guerra Martínez 0908-23-4862
+# Ejercicio de Ramas en GitHub
+
+Este proyecto corresponde a un ejercicio de desarrollo web para practicar el uso de ramas en Git y GitHub.
+
+## Rama feature
+
+Este archivo README fue creado en la rama feature.
