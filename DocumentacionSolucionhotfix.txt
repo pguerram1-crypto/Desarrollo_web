@@ -1,0 +1,10 @@
+DOCUMENTACIÓN DE SOLUCIÓN HOTFIX
+
+Rama: hotfix
+
+Este archivo corresponde a la rama hotfix del ejercicio de GitHub.
+
+Objetivo:
+Documentar una corrección urgente realizada sobre el proyecto.
+
+La rama hotfix permite trabajar en correcciones que necesitan integrarse posteriormente a la rama principal.
