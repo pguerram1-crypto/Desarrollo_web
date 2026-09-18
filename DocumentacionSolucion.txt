@@ -1,0 +1,10 @@
+DOCUMENTACIÓN DE SOLUCIÓN
+
+Rama: bugfix
+
+Este archivo corresponde a la rama bugfix del ejercicio de GitHub.
+
+Objetivo:
+Documentar la solución de un problema identificado durante el desarrollo del proyecto.
+
+La rama bugfix permite realizar modificaciones destinadas a corregir errores sin afectar directamente la rama principal.
